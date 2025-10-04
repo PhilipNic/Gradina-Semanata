@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(30, 29, 36);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    /* letter-spacing: 0.5rem; */
+}
+*{
+    color: white;
+    font-weight:normal;
+    
+    
+
+}
+.btn{
+    border-color: white;
+    border-style: solid;
+    padding: 1rem 2rem;
+    border-radius: 0.7rem;
+    border-width: 0.1rem;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 2rem;
+    
+}
+h1{
+  background-color: rgb(70, 70, 70);  
+  padding: 0px;
+  margin: 0px;
+}
